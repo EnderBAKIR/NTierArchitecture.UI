@@ -1,0 +1,25 @@
+Part 1:
+1-Repository Oluþtur: (5 dk)
+Order-OrderDetail
+
+2-Servisleri Oluþtur:	(15 dk)
+Order-OrderDetail
+
+3-Validation		(10 dk)
+Order-OrderDetail
+
+Part 1: 11:30'a kadar tamamlanacak.
+
+Part 2: (15 dk)
+4-Tüm ürünleri listbox'ta listeyen ve 3 harf ile aktif olan arama kýsmýný aktif hale getir.
+
+Part 3:
+Listboxtan ürün secildiðinde birim fiyat textbox'a getirilecek.
+
+Part 4:
+5-Sepete Ekle
+
+Part 5:
+6-Sipariþi Kaydet
+	Order kaydý oluþtur.
+	OrderDetail kayýtlarý oluþtur.
